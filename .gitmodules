@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/zharmedia386/zharmediaBlog.github.io.git
+	branch = main
