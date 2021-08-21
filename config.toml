@@ -1,5 +1,5 @@
 baseURL = "https://zharmediaBlog.github.io/"
-title = "Gokarna"
+title = "M Azhar Alauddin"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "The Marauders"
-  description = "Sky above, sand below and peace within"
+  description = "Software Engineering Student"
   avatarURL = "/images/avatar.webp"
   avatarSize = "size-m"
   customHeadHTML = ""
