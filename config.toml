@@ -10,7 +10,7 @@ enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
 [params]
-  footer = "The Marauders"
+  footer = "Zharmedia"
   description = "Software Engineering Student"
   avatarURL = "/images/avatar.webp"
   avatarSize = "size-m"
