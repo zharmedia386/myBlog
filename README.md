@@ -33,3 +33,10 @@ Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
 Finally, open the http://localhost:1313/ on your browser
+
+## Built with
+- [Gokarna](https://github.com/526avijitgupta/gokarna)
+- [Hugo](https://gohugo.io/)
+
+## License
+MIT
