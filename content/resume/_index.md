@@ -40,17 +40,17 @@ Flask, NodeJS, WordPress, Git, Bootstrap
 
 ## Volunteer Experience
 
-#### 1. Campus Day SMAN 24 Bandung
+#### 1. [Campus Day SMAN 24 Bandung 2020](https://www.instagram.com/campusday.24/)
 
 - Web Designer, Part time : Nov 2020 - Apr 2021
 
 ## Organizations
 
-#### 1. Islamic Spiritual Daarul Fikri SMAN 24 Bandung
+#### 1. [Islamic Spiritual Daarul Fikri SMAN 24 Bandung](https://www.instagram.com/daarulfikri_24/)
 
 Head of Information and Communication Media
 
-#### 2. Dakwah Millennials
+#### 2. [Dakwah Millennials](https://www.instagram.com/dakwahmillennials.id/)
 
 Founder & Director
 
@@ -58,7 +58,7 @@ Founder & Director
 
 Chairman
 
-#### 4. Ikatan Keluarga Masjid Al-Hikmah
+#### 4. [Ikatan Keluarga Masjid Al-Hikmah](https://www.instagram.com/ikramalhikmah0706/)
 
 Head of Communication Media
 
@@ -75,3 +75,21 @@ Islamic Festival Kalam Himatika FMIPA Universitas Padjadjaran
 #### 3. Semifinalist Cerdas Tangkas Matematika GMM UPI 2018
 
 BEM Himatika Universitas Pendidikan Indonesia
+
+## Licenses & Certifications
+
+#### 1. Problem Solving HackerRank
+
+Issued Sep 2021 - No Expiration Date
+
+[See Credential](https://www.hackerrank.com/certificates/e2dd28f252c6)
+
+#### 2. Kelas WordPress dari Dasar hingga Mahir
+
+Issued Oct 2020 - No Expiration Date
+
+[See Credential](https://kursusdigital.id/sertifikat/6ee87c587a0f17d877dd3762a16e22c7/)
+
+## Projects
+
+[See Project](/projects/)
