@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Zharmedia"
   description = "Software Engineering Student"
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/avatar1.webp"
   avatarSize = "size-m"
   customHeadHTML = ""
   showPostsOnHomePage = "popular"
@@ -25,8 +25,8 @@ pygmentsStyle = "monokai"
     weight = 1
 
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Resume"
+    url = "/resume/"
     weight = 2
 
   [[menu.main]]
@@ -35,24 +35,16 @@ pygmentsStyle = "monokai"
     weight = 3
 
   [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Posts"
+    url = "/posts/"
     weight = 4
 
-[[menu.main]]
-    identifier = "github"
-    pre = "<span data-feather='github'></span>"
-    url = "https://github.com/zharmedia386"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
     weight = 5
 
   [[menu.main]]
-    identifier = "instagram"
-    pre = "<span data-feather='instagram'></span>"
-    url = "https://www.instagram.com/m.azhar.alauddin"
+    name = "Contact"
+    url = "/contact/"
     weight = 6
-
-  [[menu.main]]
-    identifier = "linkedin"
-    pre = "<span data-feather='linkedin'></span>"
-    url = "https://www.linkedin.com/in/m-azhar-alauddin/"
-    weight = 7
