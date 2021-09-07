@@ -93,3 +93,17 @@ Issued Oct 2020 - No Expiration Date
 ## Projects
 
 [See Project](/projects/)
+
+## Speaker
+
+#### 1. Sekolah Desain FSI KU Universitas Negeri Jakarta
+
+PowerPoint : For Your Powerful Designs and Dakwah!
+
+[See Event](https://www.instagram.com/p/CS4MNTih3GC/?utm_source=ig_web_copy_link)
+
+#### 2. E-Course PowerPoint Mastery Dakwah Millennials
+
+Pelatihan Optimasi PowerPoint untuk Dakwah Vol.1
+
+[See Event](https://www.instagram.com/p/CILQN3aB3t_/?utm_source=ig_web_copy_link)
